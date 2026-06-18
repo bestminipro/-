@@ -1,0 +1,6 @@
+{
+  "name": "دستوریار",
+  "description": "مرجع دستورالعمل‌ها، استانداردها، آیین‌نامه‌ها و مستندات فنی مهندسی با هوش مصنوعی و OCR",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

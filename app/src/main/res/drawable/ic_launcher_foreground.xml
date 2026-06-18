@@ -1,0 +1,33 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Outer technical gear / circuit silhouette -->
+    <path
+        android:fillColor="#1F3D5A"
+        android:pathData="M54,20 C35.2,20 20,35.2 20,54 C20,72.8 35.2,88 54,88 C72.8,88 88,72.8 88,54 C88,35.2 72.8,20 54,20 Z" />
+
+    <!-- Technical standard document container -->
+    <path
+        android:fillColor="#E0F7FA"
+        android:pathData="M38,34 C38,31.8 39.8,30 42,30 L66,30 L74,38 L74,74 C74,76.2 72.2,78 70,78 L42,78 C39.8,78 38,76.2 38,74 Z" />
+
+    <!-- Folded corner fold -->
+    <path
+        android:fillColor="#B2EBF2"
+        android:pathData="M66,30 L74,38 L66,38 Z" />
+
+    <!-- Industrial technical drawing indicator lines -->
+    <path
+        android:strokeColor="#00838F"
+        android:strokeWidth="1.8"
+        android:strokeLineCap="round"
+        android:pathData="M44,46 L62,46 M44,52 L68,52 M44,58 L58,58" />
+
+    <!-- Golden Reference Star representing Smart Assistant -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M54,54 L55.6,57.5 L59.4,58 L56.6,60.6 L57.4,64.4 L54,62.3 L50.6,64.4 L51.4,60.6 L48.6,58 L52.4,57.5 Z" />
+</vector>
